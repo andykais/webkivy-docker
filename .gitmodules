@@ -1,0 +1,3 @@
+[submodule "webkivy"]
+	path = webkivy
+	url = https://github.com/miohtama/webkivy.git

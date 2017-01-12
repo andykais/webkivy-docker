@@ -1,0 +1,11 @@
+appdirs==1.4.0
+buildozer==0.32
+colorama==0.3.7
+Cython==0.25.2
+Jinja2==2.9.4
+MarkupSafe==0.23
+pexpect==4.2.1
+ptyprocess==0.5.1
+sh==1.12.9
+six==1.10.0
+virtualenv==15.1.0
