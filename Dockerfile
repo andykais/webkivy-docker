@@ -27,6 +27,6 @@ RUN apt-get install -y \
 
 COPY webkivy .
 
-COPY requirements.txt /src/requirements.txt
+COPY config/requirements.txt /src/requirements.txt
 
 RUN pip install -r /src/requirements.txt
